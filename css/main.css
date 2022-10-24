@@ -674,6 +674,10 @@ ul, li {
   pointer-events: none;
 }
 
+.modal-container__event {
+  pointer-events: all;
+}
+
 .modal-container-open {
   display: block;
   opacity: 1;
